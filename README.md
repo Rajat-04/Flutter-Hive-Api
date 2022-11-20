@@ -5,10 +5,10 @@ Flutter application showing API json parsing and usage of HIVE storage.
 
 
 ## Screenshots
+![Screenshot_20221121-003226](https://user-images.githubusercontent.com/108835667/202921053-f90539d4-5af9-4c99-a36a-3c0c93ef99d6.jpg)
+![Screenshot_20221121-003209](https://user-images.githubusercontent.com/108835667/202921054-8acc8080-a984-49f5-b003-af522f7f097a.jpg)
+![Screenshot_20221121-003216](https://user-images.githubusercontent.com/108835667/202921055-a110a350-4d43-4ad4-9c47-6d2a62690098.jpg)
 
-![App Screenshot](https://drive.google.com/file/d/1-W0dszpJK7YjRQIDmL7mTbDsONlJPdHi/view?usp=share_link)
-![App Screenshot](https://drive.google.com/file/d/1-Xwr4S63BI6vUQcWTPtT-uLNSmEHqz-T/view?usp=share_link)
-![App Screenshot](https://drive.google.com/file/d/1-Z7kwVrzuvyp0_XU0LKsY1vRcmeHej5m/view?usp=share_link)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Rajat-04)
