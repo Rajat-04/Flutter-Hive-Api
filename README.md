@@ -1,16 +1,15 @@
-# task
 
-A new Flutter project.
+# FLUTTER HIVE API
 
-## Getting Started
+Flutter application showing API json parsing and usage of HIVE storage.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://drive.google.com/file/d/1-W0dszpJK7YjRQIDmL7mTbDsONlJPdHi/view?usp=share_link)
+![App Screenshot](https://drive.google.com/file/d/1-Xwr4S63BI6vUQcWTPtT-uLNSmEHqz-T/view?usp=share_link)
+![App Screenshot](https://drive.google.com/file/d/1-Z7kwVrzuvyp0_XU0LKsY1vRcmeHej5m/view?usp=share_link)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Rajat-04)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-bhargava-24462b244/)
