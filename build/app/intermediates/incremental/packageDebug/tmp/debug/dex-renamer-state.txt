@@ -1,0 +1,4 @@
+#Sun Nov 20 23:15:56 IST 2022
+base.0=D\:\\Myprjects\\task\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
